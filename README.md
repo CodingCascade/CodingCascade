@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Boolie. Welcome to Coding with Boolie! 👋
+## Hi there! 👋 I'm Boolie. Welcome to Coding Cascade! 👋
 
 - 🚀 Exploring the world of **C#** and **the .NET Stack**
 - 💻 Building real-world projects & more
