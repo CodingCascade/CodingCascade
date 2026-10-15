@@ -1,6 +1,6 @@
 # Hi, I'm Boolie 👋
 
-I'm a software engineer with professional experience building and supporting web applications. I focus on C#/.NET, SQL, and backend-focused development. Here I share the projects I'm building and the lessons behind them through [Coding Cascade on YouTube](https://www.youtube.com/@CodingCascade).
+I'm a software engineer with professional experience building and supporting web applications. I focus on C#/.NET, SQL, and backend-focused development. Here I share the projects I'm building and the lessons behind them through [My Blog](https://booliekets.com/blog/).
 
 ## Featured project: DohFlo
 
@@ -8,14 +8,11 @@ I'm a software engineer with professional experience building and supporting web
 
 I'm developing the application in stages, including accounts, transactions, categories, automated tests, and a future public demo.
 
-[Explore the project repository](https://github.com/CodingCascade/DippingSauces)
+[Explore the Project Repository](https://github.com/CodingCascade/DippingSauces)
 
 ## What I work with
 
 C# · ASP.NET Core MVC · Entity Framework Core · SQL · JavaScript · HTML · CSS · Git · xUnit
 
-## Coding Cascade
-
-I use [Coding Cascade](https://www.youtube.com/@CodingCascade) to explain software development concepts and share practical projects as I build them.
-
+## Contact
 📫 **Contact:** boolie@codingcascade.com
