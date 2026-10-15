@@ -15,4 +15,4 @@ I'm developing the application in stages, including accounts, transactions, cate
 C# · ASP.NET Core MVC · Entity Framework Core · SQL · JavaScript · HTML · CSS · Git · xUnit
 
 ## Contact
-📫 **Contact:** boolie@codingcascade.com
+📫 **Email:** boolie@codingcascade.com
